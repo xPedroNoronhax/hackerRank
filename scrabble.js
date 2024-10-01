@@ -56,4 +56,3 @@ function score(word) {
 }
 
 
-console.log(scrabble("computer","Science!"));
